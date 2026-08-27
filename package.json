@@ -1,0 +1,30 @@
+{
+  "name": "sam5121472",
+  "version": "1.0.0",
+  "description": "Self-updating GitHub Profile README for sam5121472 — AI / Data Science / MLOps, built with GitHub Actions, Node.js and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam5121472/sam5121472.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github-profile",
+    "github-actions",
+    "mlops",
+    "ai",
+    "data-science"
+  ],
+  "author": "sam5121472",
+  "license": "MIT",
+  "homepage": "https://github.com/sam5121472/sam5121472#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.7.0"
+  }
+}
