@@ -231,7 +231,7 @@ This is roughly what it looks like when a training run finally converges after t
   <a href="https://www.linkedin.com/in/sameer-hassan-khan-561856397/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/sameerhassankhan" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="https://sam5121472.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~01616460aab60f51cb" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01616460aab60f51cb" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-D14836?style=for-the-badge&logo=upwork&logoColor=green" /></a>
 </p>
 
 ---
