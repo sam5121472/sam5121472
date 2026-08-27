@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="assets/media/coding-on-fire-thumbnail.jpg" width="100%" alt="banner"/>
+<a href="assets/media/coding-on-fire.mp4">
+  <img src="assets/media/coding-on-fire-preview.gif" width="640" alt="Aggressive coding session — click to watch the full video"/>
+</a>
+
+<sub><b>▶ Click the preview to watch the full video</b> — GitHub READMEs don't autoplay MP4s, but the GIF above is the highlight reel. Full source file lives at <a href="assets/media/coding-on-fire.mp4"><code>assets/media/coding-on-fire.mp4</code></a>.</sub>
+
+</div>
 
 <h1>Hey, I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
@@ -185,20 +191,6 @@ I build things like:
   </tbody>
 </table>
 
-## 🔥 How I Ship Code
-
-<div align="center">
-
-<a href="assets/media/coding-on-fire.mp4">
-  <img src="assets/media/coding-on-fire-preview.gif" width="640" alt="Aggressive coding session — click to watch the full video"/>
-</a>
-
-<sub><b>▶ Click the preview to watch the full video</b> — GitHub READMEs don't autoplay MP4s, but the GIF above is the highlight reel. Full source file lives at <a href="assets/media/coding-on-fire.mp4"><code>assets/media/coding-on-fire.mp4</code></a>.</sub>
-
-</div>
-
-This is roughly what it looks like when a training run finally converges after the fourth hyperparameter sweep. 🔥⌨️
-
 ## 🎯 Current Focus
 
 <!-- Edit this list to reflect what you're actually working on / learning right now -->
@@ -209,18 +201,6 @@ This is roughly what it looks like when a training run finally converges after t
 - ☁️ Getting more comfortable deploying models on **cloud / ML infrastructure**
 - 📚 Reading papers and translating them into working, deployable code
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sam5121472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam5121472&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam5121472&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam5121472&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🤝 Connect With Me
 
