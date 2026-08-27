@@ -165,19 +165,19 @@ I build things like:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/sam5121472/REPLACE_WITH_REPO_1"><b>End-to-End ML Pipeline (MLflow + DVC)</b></a><br/><sub>Reproducible training pipeline with experiment tracking and data versioning</sub></td>
+      <td><a href="[https://github.com/sam5121472/REPLACE_WITH_REPO_1](https://github.com/sam5121472/vizwiz-image-captioning-deep-learning.git)"><b>vizwiz-image-captioning-deep-learning</b></a><br/><sub>Reproducible training pipeline with experiment tracking and data versioning</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sam5121472/REPLACE_WITH_REPO_1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sam5121472/REPLACE_WITH_REPO_1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sam5121472/REPLACE_WITH_REPO_1?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/sam5121472/REPLACE_WITH_REPO_2"><b>YOLO-based Object Detection Service</b></a><br/><sub>Real-time detection model served behind a Dockerized API</sub></td>
+      <td><a href="[https://github.com/sam5121472/REPLACE_WITH_REPO_2](https://github.com/sam5121472/Airbnb-AI-Agent-with-MCP-vLLM-Pydantic-AI.git)"><b>Airbnb-AI-Agent-with-MCP-vLLM-Pydantic-AI </b></a><br/><sub>Real-time Agentic model served behind a Dockerized API</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sam5121472/REPLACE_WITH_REPO_2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sam5121472/REPLACE_WITH_REPO_2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sam5121472/REPLACE_WITH_REPO_2?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/sam5121472/REPLACE_WITH_REPO_3"><b>NLP Text Classification Pipeline</b></a><br/><sub>Preprocessing → training → CI/CD deployment for a text classifier</sub></td>
+      <td><a href="[https://github.com/sam5121472/REPLACE_WITH_REPO_3](https://github.com/sam5121472/mask-detection-using-yolo-v8.git)"><b>mask-detection-using-yolo-v8 </b></a><br/><sub>Preprocessing → training → CI/CD deployment for a text classifier</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sam5121472/REPLACE_WITH_REPO_3?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sam5121472/REPLACE_WITH_REPO_3?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sam5121472/REPLACE_WITH_REPO_3?style=flat-square&labelColor=343b41"/></td>
